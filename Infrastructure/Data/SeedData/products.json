@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Angular Speedster Boatd 2000",
+        "Description": " Registra um erro usando o logger.Isso é útil para registrar informações detalhadas sobre a exceção que ocorreu durante a migração do banco de dados.",
+        "Price": 200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "React Speedster Boatd 2000",
+        "Description": " Registra um erro usando o logger.Isso é útil para registrar informações detalhadas sobre a exceção que ocorreu durante a migração do banco de dados.",
+        "Price": 200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Eduardo Speedster Boatd 2000",
+        "Description": " Registra um erro usando o logger.Isso é útil para registrar informações detalhadas sobre a exceção que ocorreu durante a migração do banco de dados.",
+        "Price": 150,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Angular Speedster Boatd 2000",
+        "Description": " Registra um erro usando o logger.Isso é útil para registrar informações detalhadas sobre a exceção que ocorreu durante a migração do banco de dados.",
+        "Price": 500,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    }
+]
